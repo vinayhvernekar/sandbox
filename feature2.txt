@@ -1,2 +1,2 @@
 Feature2
-Deleted feature
+modified and Deleted feature
