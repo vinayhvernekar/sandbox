@@ -1,2 +1,2 @@
 Feature2
-Additional feature
+modified feature
